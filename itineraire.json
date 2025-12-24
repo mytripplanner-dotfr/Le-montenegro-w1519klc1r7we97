@@ -1,0 +1,173 @@
+{
+  "pays": "Monténégro",
+  "drapeau": "🇲🇪",
+  "symbole": "🏞️",
+  "titre": "Évasion Relaxante au Monténégro : Perles de l'Adriatique",
+  "budget_total": "720-750€ par personne",
+  "duree": "4 jours",
+  "temps_vol": "2h30 depuis Paris, France",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et Charme de Kotor",
+      "legende": "Atterrissage en douceur au Monténégro, suivi d'un transfert vers la magnifique Baie de Kotor. La première soirée est dédiée à la découverte tranquille des ruelles médiévales de Kotor, classée à l'UNESCO, pour une immersion immédiate dans l'histoire et la beauté locale.",
+      "lieu": "Kotor",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Podgorica (TGD)</strong>: Récupération de votre véhicule de location et route panoramique vers Kotor (environ 1h30).",
+        "<strong>🛏️ Installation à l'hôtel à Kotor</strong>: Prenez le temps de vous installer dans votre hébergement, idéalement situé près de la vieille ville.",
+        "<strong>🚶‍♂️ Balade relaxante dans la Vieille Ville de Kotor</strong>: Flânez sans hâte dans le labyrinthe de rues pavées, admirez les palais vénitiens et imprégnez-vous de l'atmosphère unique de cette cité historique."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "🚗",
+          "titre": "Location de voiture",
+          "texte": "Une voiture est essentielle pour explorer le Monténégro à votre rythme. Réservez-la à l'avance pour de meilleurs tarifs."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "⛵",
+      "titre": "Trésors de la Baie de Kotor et Perast",
+      "legende": "Une journée dédiée à l'exploration des joyaux de la Baie de Kotor. Une croisière paisible vous mènera à l'île Notre-Dame-du-Rocher, suivie d'une promenade charmante dans la ville baroque de Perast, offrant des vues imprenables sur les bouches de Kotor.",
+      "lieu": "Kotor & Perast",
+      "activites": [
+        "<strong>🚤 Croisière sur la Baie de Kotor</strong>: Embarquez pour une excursion en bateau vers l'île artificielle de Notre-Dame-du-Rocher et son église emblématique, un moment de sérénité sur l'eau.",
+        "<strong>🚶‍♀️ Découverte de Perast</strong>: Visitez cette petite ville baroque, célèbre pour ses palais et ses deux îles. Profitez d'une balade douce le long du front de mer.",
+        "<strong>☕ Pause café avec vue</strong>: Installez-vous à une terrasse à Perast pour savourer un café ou une boisson fraîche en admirant le paysage majestueux de la baie."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil photo",
+          "texte": "Les lumières du matin et de fin d'après-midi offrent les meilleures conditions pour photographier la Baie de Kotor."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏖️",
+      "titre": "Riviera de Budva et Détente Cotière",
+      "legende": "Cap sur la Riviera de Budva pour une journée de détente au bord de l'Adriatique. Admirez l'île-hôtel de Sveti Stefan, puis profitez d'une après-midi paisible sur l'une des plages pittoresques de la région, loin de l'agitation.",
+      "lieu": "Budva & Sveti Stefan",
+      "activites": [
+        "<strong>🚗 Route panoramique vers Sveti Stefan</strong>: Conduisez le long de la côte pour admirer les vues spectaculaires et faites un arrêt photo devant l'emblématique île-hôtel de Sveti Stefan.",
+        "<strong>🚶‍♂️ Balade dans la Vieille Ville de Budva</strong>: Explorez la charmante vieille ville fortifiée de Budva, moins escarpée que Kotor, et découvrez ses petites places et églises.",
+        "<strong>☀️ Après-midi plage relaxante</strong>: Détendez-vous sur une plage comme Mogren ou Jaz (selon la saison et l'affluence) pour profiter du soleil et des eaux claires de l'Adriatique."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Gastronomie locale",
+          "texte": "Goûtez aux spécialités de fruits de mer frais dans un restaurant en bord de mer à Budva."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛫",
+      "titre": "Derniers Instants et Départ",
+      "legende": "Profitez d'un dernier petit-déjeuner monténégrin et d'une ultime balade matinale. Il est temps de reprendre la route vers l'aéroport de Podgorica, la tête pleine de souvenirs apaisants de la beauté adriatique.",
+      "lieu": "Kotor / Podgorica",
+      "activites": [
+        "<strong>🥐 Petit-déjeuner et souvenirs</strong>: Savourez un dernier petit-déjeuner local et achetez quelques souvenirs si vous le souhaitez.",
+        "<strong>🏞️ Dernière vue sur la Baie de Kotor</strong>: Avant de partir, faites un court arrêt à un point de vue pour admirer une dernière fois la majesté de la baie.",
+        "<strong>🛫 Retour à l'aéroport de Podgorica (TGD)</strong>: Restitution du véhicule de location et vol retour vers Paris, France."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Temps de trajet",
+          "texte": "Prévoyez environ 1h30 à 2h de route entre Kotor et l'aéroport de Podgorica, plus le temps pour la restitution de la voiture et l'enregistrement."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "239 €/pers (A/R)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "~100 €/pers (location voiture + essence pour 4 jours, base 2 pers)",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "~160 €/pers (40€/jour pour 3 repas, budget moyen)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "~150 €/pers (3 nuits en hôtel 3*, base 2 pers)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "~70 €/pers (croisière, entrées, etc.)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Mai à Juin",
+      "symbole": "☀️"
+    },
+    {
+      "titre": "Septembre à Octobre",
+      "symbole": "🍂"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont acceptées dans la plupart des commerces et restaurants, mais prévoyez du liquide pour les petits achats.",
+      "symbole": "💳"
+    },
+    {
+      "titre": "Le permis de conduire français est suffisant. La conduite est à droite. Les routes peuvent être sinueuses, surtout en montagne.",
+      "symbole": "🚗"
+    },
+    {
+      "titre": "La langue officielle est le Monténégrin. L'anglais est parlé dans les zones touristiques. Quelques mots de serbe/croate peuvent être utiles.",
+      "symbole": "🗣️"
+    },
+    {
+      "titre": "Les températures sont douces au printemps et en automne (15-25°C). Prévoir des vêtements légers et une veste pour les soirées.",
+      "symbole": "🌡️"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Vols",
+      "titre": "Réserve ton vol",
+      "url": "https://www.kayak.fr/flights/CDG-TGD/2026-04-13/2026-04-17",
+      "symbole": "🛬"
+    },
+    {
+      "legende": "Office du tourisme",
+      "titre": "Visit Montenegro",
+      "url": "https://www.montenegro.travel/en",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Location de voiture",
+      "titre": "Rentalcars.com",
+      "url": "https://www.rentalcars.com/",
+      "symbole": "🚗"
+    },
+    {
+      "legende": "Météo",
+      "titre": "Météo Monténégro",
+      "url": "https://www.accuweather.com/fr/me/montenegro-weather",
+      "symbole": "🌤️"
+    }
+  ]
+}
